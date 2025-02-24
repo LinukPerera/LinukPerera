@@ -3,11 +3,12 @@
 
 
 <h3 align="center">I’m an Electrical and Electronics Engineer with a degree in EEE and a Postgraduate Diploma in Information Technology from Sri Lanka.</h3>
-<img align="right" alt="Wave Function" width="200" src="https://64.media.tumblr.com/bfe7c612f57222270e8ee775f32c34f4/tumblr_o8x43xEHcP1rpco88o1_540.gif"/>
 
 
 <img height="100" src="https://i.pinimg.com/originals/c8/61/75/c8617584f5180a47f90de9004ed7afed.gif" width="100%" />
 
+
+<img align="right" alt="Wave Function" width="200" src="https://64.media.tumblr.com/bfe7c612f57222270e8ee775f32c34f4/tumblr_o8x43xEHcP1rpco88o1_540.gif"/>
 
 
 - 🔭 I’m currently working on : **Neural Network-Driven Augmented Reality for Gesture Control**
