@@ -10,7 +10,6 @@
   <img src="https://github.com/LinukPerera/LinukPerera/blob/output/github-snake-dark.svg" alt="snake gif" />
 </div>
 
-<img height="50" src="https://i.pinimg.com/originals/c8/61/75/c8617584f5180a47f90de9004ed7afed.gif" width="100%" />
 
 
 <img align="right" alt="Wave Function" width="200" src="https://64.media.tumblr.com/bfe7c612f57222270e8ee775f32c34f4/tumblr_o8x43xEHcP1rpco88o1_540.gif"/>
@@ -21,6 +20,8 @@
 - 🌱 I’m currently learning : **Machine Learning, Electronics and Economics**
 
 
+
+<img height="50" src="https://i.pinimg.com/originals/c8/61/75/c8617584f5180a47f90de9004ed7afed.gif" width="100%" />
 
 📫 How to Reach Me
 <div align="center"> <a href="mailto:linukperera@icloud.com"> <img src="https://img.shields.io/badge/linukperera@icloud.com-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iCloud Email Badge" /> </a> <br/><br/> <a href="mailto:linukperera402@gmail.com"> <img src="https://img.shields.io/badge/linukperera402@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Email Badge" /> </a> </div>
