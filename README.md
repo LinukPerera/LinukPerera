@@ -5,7 +5,8 @@
 
 <h3 align="center">I’m an Electrical and Electronics Engineer with a degree in EEE 👨‍🔧🔌💡 and a Postgraduate Diploma in Information Technology 🖥️ from Sri Lanka 🇱🇰.</h3>
 
-![snake gif](https://github.com/YOUR_USERNAME/LinukPerera/blob/output/github-snake.svg)
+<img src="https://raw.githubusercontent.com/LinukPerera/LinukPerera/blob/output/github-snake.svg" alt="Snake animation" />
+
 
 <img height="50" src="https://i.pinimg.com/originals/c8/61/75/c8617584f5180a47f90de9004ed7afed.gif" width="100%" />
 
