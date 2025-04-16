@@ -16,22 +16,24 @@
 
 <!-- About Section -->
 ---
-
+<!-- https://cdn.dribbble.com/userupload/25025532/file/original-2f0f95f4d67dd5fc7dc623442fd0ad44.gif -->
 ## 🔭 I’m currently working on: 
+<!-- ## <br><img src="https://cdn.dribbble.com/userupload/25025532/file/original-2f0f95f4d67dd5fc7dc623442fd0ad44.gif" width ="65"> 💻 I’m currently working on: -->
+
 **Neural Network-Driven Augmented Reality for Gesture Control**
   
 ## 🌱 I’m currently learning:
 **Machine Learning, Electronics, and Economics**
   
 <!-- Sphere Wave Func Gif -->
-<img align="right" alt="Wave Function" height="200" width="200" src="https://64.media.tumblr.com/bfe7c612f57222270e8ee775f32c34f4/tumblr_o8x43xEHcP1rpco88o1_540.gif"/>
+<!-- <img align="right" alt="Wave Function" height="200" width="200" src="https://64.media.tumblr.com/bfe7c612f57222270e8ee775f32c34f4/tumblr_o8x43xEHcP1rpco88o1_540.gif"/> -->
 
 ---
 
 <!-- Contact Section -->
 ## 📫 How to Reach Me:
 
-<div align="left">
+<div align="center">
   <a href="mailto:linukperera@icloud.com">
     <img src="https://img.shields.io/badge/linukperera@icloud.com-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iCloud Email Badge" />
   </a>
@@ -48,7 +50,9 @@
 ---
 
 <!-- Socials -->
+<!-- https://miro.medium.com/v2/resize:fit:1400/format:webp/1*m-88eO-MNLjwZlYpzmF6tQ.gif -->
 ## 🤝 Connect with me:
+<!-- ## <br><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*m-88eO-MNLjwZlYpzmF6tQ.gif" width ="100"> Connect with me: -->
 
 <p align="center">
   <a href="https://linkedin.com/in/linuk-perera-79a212307" target="_blank">
@@ -60,7 +64,7 @@
 ---
 
 <!-- Skills Section -->
-### 💻 Languages and Tools:
+## 💻 Languages and Tools:
 
 <div align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="arduino logo" />
