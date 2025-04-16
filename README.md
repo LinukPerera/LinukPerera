@@ -1,40 +1,62 @@
+<!-- Header Section -->
+<h1 align="center">
+  <b>Hi, I'm Linuk Perera</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-<h1 align="center"><b>Hi , I'm Linuk Perera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">
+  I’m an Electrical and Electronics Engineer with a BEng in Electrical & Electronics 👨‍🔧🔌💡 <br/>
+  and a Postgraduate Diploma in Information Technology 🖥️ from Sri Lanka 🇱🇰.
+</h3>
 
-
-
-<h3 align="center">I’m an Electrical and Electronics Engineer with a degree in EEE 👨‍🔧🔌💡 and a Postgraduate Diploma in Information Technology 🖥️ from Sri Lanka 🇱🇰.</h3>
-
-
+<!-- GitHub Snake Animation -->
 <div align="center">
   <img src="https://github.com/LinukPerera/LinukPerera/blob/output/github-snake-dark.svg" alt="snake gif" />
 </div>
 
+<!-- About Section -->
+---
 
+### 🔭 I’m currently working on: 
+**Neural Network-Driven Augmented Reality for Gesture Control**
 
-- 🔭 I’m currently working on : **Neural Network-Driven Augmented Reality for Gesture Control**
+### 🌱 I’m currently learning:
+**Machine Learning, Electronics, and Economics**
 
-- 🌱 I’m currently learning : **Machine Learning, Electronics and Economics**
-
-
+<!-- Sphere Wave Func Gif -->
 <img align="right" alt="Wave Function" width="200" src="https://64.media.tumblr.com/bfe7c612f57222270e8ee775f32c34f4/tumblr_o8x43xEHcP1rpco88o1_540.gif"/>
 
-📫 How to Reach Me
-<div align="center"> <a href="mailto:linukperera@icloud.com"> <img src="https://img.shields.io/badge/linukperera@icloud.com-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iCloud Email Badge" /> </a> <br/><br/> <a href="mailto:linukperera402@gmail.com"> <img src="https://img.shields.io/badge/linukperera402@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Email Badge" /> </a> </div>
+---
 
-<h1 align="center> </h1>
-<h3 align="center> </h3>
-<h3 align="left">Connect with me:</h3>
+<!-- Contact Section -->
+### 📫 How to Reach Me:
 
-<p> </p>
-<h1 align="center> </h1>
-<p align="center> </p>
+<div align="center">
+  <a href="mailto:linukperera@icloud.com">
+    <img src="https://img.shields.io/badge/linukperera@icloud.com-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iCloud Email Badge" />
+  </a>
+  <br/><br/>
+  <a href="mailto:linukperera402@gmail.com">
+    <img src="https://img.shields.io/badge/linukperera402@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Email Badge" />
+  </a>
+</div>
+
+---
+
+<!-- Socials -->
+### 🤝 Connect with me:
 
 <p align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/linuk-perera-79a212307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/linuk-perera-79a212307" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/linuk-perera-79a212307" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="center">Languages and Tools :</h3>
+---
+
+<!-- Skills Section -->
+### 💻 Languages and Tools:
+
 <div align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="arduino logo" />
   <img width="12" />
@@ -85,30 +107,29 @@
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="40" alt="unity logo" />
 </div>
 
+---
 
-<p> </p>
-<h1 align="center> </h1>
-<p align="center> </p>
+<!-- GitHub Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=linukperera" alt="linukperera trophies" />
+  </a>
+</p>
 
-<p> </p>
-<h1 align="center> </h1>
-<p align="center> </p>
+---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linukperera" alt="linukperera" /></a> </p>
+<!-- GitHub Stats -->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=linukperera&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+</p>
 
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=linukperera&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
-<p> </p>
-<h1 align="center> </h1>
-<p align="center> </p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=linukperera" alt="GitHub Streak" />
+</p>
 
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=linukperera&show_icons=true&locale=en&layout=compact" alt="linukperera" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=linukperera&show_icons=true&locale=en" alt="linukperera" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=linukperera&" alt="linukperera" /></p>
-
-
+<!-- Footer Animation -->
 <img height="50" src="https://i.pinimg.com/originals/c8/61/75/c8617584f5180a47f90de9004ed7afed.gif" width="100%" />
