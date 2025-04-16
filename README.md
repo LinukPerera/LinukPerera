@@ -32,11 +32,11 @@
 <h1 align="center> </h1>
 <p align="center> </p>
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/www.linkedin.com/in/linuk-perera-79a212307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/linuk-perera-79a212307" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools :</h3>
 <div align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="arduino logo" />
   <img width="12" />
@@ -49,8 +49,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo" />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" height="40" alt="flask logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo" />
   <img width="12" />
