@@ -17,12 +17,9 @@
 - 🌱 I’m currently learning : **Machine Learning, Electronics and Economics**
 
 
-- 📫 How to reach me :
- 
-- **linukperera@icloud.com**
-   or
-- **linukperera402@gmail.com**
 
+📫 How to Reach Me
+<div align="center"> <a href="mailto:linukperera@icloud.com"> <img src="https://img.shields.io/badge/linukperera@icloud.com-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iCloud Email Badge" /> </a> <br/><br/> <a href="mailto:linukperera402@gmail.com"> <img src="https://img.shields.io/badge/linukperera402@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Email Badge" /> </a> </div>
 
 <h1 align="center> </h1>
 <h3 align="center> </h3>
