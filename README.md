@@ -12,9 +12,6 @@
 
 
 
-<img align="right" alt="Wave Function" width="200" src="https://64.media.tumblr.com/bfe7c612f57222270e8ee775f32c34f4/tumblr_o8x43xEHcP1rpco88o1_540.gif"/>
-
-
 - 🔭 I’m currently working on : **Neural Network-Driven Augmented Reality for Gesture Control**
 
 - 🌱 I’m currently learning : **Machine Learning, Electronics and Economics**
@@ -114,3 +111,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=linukperera&" alt="linukperera" /></p>
 
+
+<img height="50" src="https://i.pinimg.com/originals/c8/61/75/c8617584f5180a47f90de9004ed7afed.gif" width="100%" />
