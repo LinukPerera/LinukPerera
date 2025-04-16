@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/linukperera402@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Email Badge" />
   </a>
   <br/><br/>
-  <a href="https://wa.me/94711234567" target="_blank"> 
+  <a href="https://wa.me/94773744055" target="_blank"> 
     <img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /> 
   </a> 
 </div>
