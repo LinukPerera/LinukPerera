@@ -17,21 +17,21 @@
 <!-- About Section -->
 ---
 
-### 🔭 I’m currently working on: 
+## 🔭 I’m currently working on: 
 **Neural Network-Driven Augmented Reality for Gesture Control**
-
-### 🌱 I’m currently learning:
+  
+## 🌱 I’m currently learning:
 **Machine Learning, Electronics, and Economics**
-
+  
 <!-- Sphere Wave Func Gif -->
 <img align="right" alt="Wave Function" height="200" width="200" src="https://64.media.tumblr.com/bfe7c612f57222270e8ee775f32c34f4/tumblr_o8x43xEHcP1rpco88o1_540.gif"/>
 
 ---
 
 <!-- Contact Section -->
-### 📫 How to Reach Me:
+## 📫 How to Reach Me:
 
-<div align="center">
+<div align="left">
   <a href="mailto:linukperera@icloud.com">
     <img src="https://img.shields.io/badge/linukperera@icloud.com-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iCloud Email Badge" />
   </a>
@@ -39,17 +39,22 @@
   <a href="mailto:linukperera402@gmail.com">
     <img src="https://img.shields.io/badge/linukperera402@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Email Badge" />
   </a>
+  <br/><br/>
+  <a href="https://wa.me/94711234567" target="_blank"> 
+    <img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /> 
+  </a> 
 </div>
 
 ---
 
 <!-- Socials -->
-### 🤝 Connect with me:
+## 🤝 Connect with me:
 
 <p align="center">
   <a href="https://linkedin.com/in/linuk-perera-79a212307" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
+  
 </p>
 
 ---
