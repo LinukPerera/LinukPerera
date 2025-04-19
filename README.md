@@ -6,7 +6,7 @@
 
 <h3 align="center">
   I’m an Electrical and Electronics Engineer with a BEng in Electrical & Electronics 👨‍🔧🔌💡 <br/>
-  and a Postgraduate Diploma in Information Technology 🖥️ 
+  and a Postgraduate Diploma in Information Technology 🖥️ <br/>
   From the island of Sri Lanka 🇱🇰.
 </h3>
 
