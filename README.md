@@ -24,7 +24,7 @@
 **Neural Network-Driven Augmented Reality for Gesture Control**
   
 ## 🌱 I’m currently learning:
-**Machine Learning, Electronics, and Economics**
+**Quantitative Finance, Machine Learning, Electronics and Economics**
   
 <!-- Sphere Wave Func Gif -->
 <!-- <img align="right" alt="Wave Function" height="200" width="200" src="https://64.media.tumblr.com/bfe7c612f57222270e8ee775f32c34f4/tumblr_o8x43xEHcP1rpco88o1_540.gif"/> -->
