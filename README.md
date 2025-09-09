@@ -21,7 +21,7 @@
 ## 🔭 I’m currently working on: 
 <!-- ## <br><img src="https://cdn.dribbble.com/userupload/25025532/file/original-2f0f95f4d67dd5fc7dc623442fd0ad44.gif" width ="65"> 💻 I’m currently working on: -->
 
-**Neural Network-Driven Augmented Reality for Gesture Control**
+**Digital Twins and Quant Models**
   
 ## 🌱 I’m currently learning:
 **Quantitative Finance, Machine Learning, Electronics and Economics**
