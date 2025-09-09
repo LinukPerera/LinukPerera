@@ -6,7 +6,7 @@
 
 <h3 align="center">
   I’m a Masters Student in Electrical and Electronics Engineering 👨‍🔧🔌💡 <br/>
-  and a Postgraduate Diploma in Information Technology 🖥️ <br/>
+  PGD in IT Majoring in CS with a minor in Databases 🖥️ <br/>
   From the island of Sri Lanka 🇱🇰.
 </h3>
 
