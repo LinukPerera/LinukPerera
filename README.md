@@ -67,54 +67,49 @@
 <!-- Skills Section -->
 ## 💻 Languages and Tools:
 
-<div align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="arduino logo" />
-  <img width="12" />
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" height="40" alt="blender logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40" alt="matlab logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" alt="opencv logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40" alt="pytorch logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://reactnative.dev/img/header_logo.svg" height="40" alt="reactnative logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40" alt="sass logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" />
-  <img width="12" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="seaborn logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="40" alt="sqlite logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="tensorflow logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="40" alt="unity logo" />
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 14px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" alt="python" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="45" alt="pytorch" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="45" alt="tensorflow" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="45" alt="matlab" />
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="45" alt="opencv" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nvidia.svg" height="45" alt="cuda/nvidia" />
+
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="45" alt="huggingface" />
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="45" alt="langchain" />
+  <img src="https://cdn.simpleicons.org/onnx/005CED" height="45" alt="onnx" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45" alt="scikit_learn" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="45" alt="pandas" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="45" alt="seaborn" />
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="45" alt="c" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus" />
+  <img src="https://cdn.worldvectorlogo.com/logos/xilinx.svg" height="45" alt="xilinx" />
+  <img src="https://cdn.simpleicons.org/espressif/E7352C" height="45" alt="espressif" />
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="45" alt="arduino" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" height="45" alt="embedded" />
+  <img src="https://cdn.worldvectorlogo.com/logos/arm-1.svg" height="45" alt="arm" />
+  <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" height="45" alt="raspberry pi" />
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" alt="aws" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="45" alt="azure" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="45" alt="gcp" />
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="45" alt="docker" />
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="45" alt="csharp" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="45" alt="nodejs" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="45" alt="sqlite" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="45" alt="mysql" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="45" alt="firebase" />
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45" alt="javascript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="45" alt="react" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="45" alt="nextjs" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="45" alt="html5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="45" alt="css3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="45" alt="sass" />
+  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" height="45" alt="blender" />
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="45" alt="unity" />
 </div>
 
 ---
