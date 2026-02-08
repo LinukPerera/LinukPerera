@@ -144,4 +144,6 @@
 </p>
 
 <!-- Footer Animation -->
-<img height="50" src="https://i.pinimg.com/originals/c8/61/75/c8617584f5180a47f90de9004ed7afed.gif" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
