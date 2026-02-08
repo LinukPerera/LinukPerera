@@ -67,57 +67,28 @@
 <!-- Skills Section -->
 ## 💻 Languages and Tools:
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python" style="margin: 10px" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40" alt="pytorch" style="margin: 10px" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="tensorflow" style="margin: 10px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40" alt="matlab" style="margin: 10px" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" alt="opencv" style="margin: 10px" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nvidia.svg" height="40" alt="cuda" style="margin: 10px" />
-</div>
+### 🤖 AI & Scientific Computing
+<div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/nvidia.svg" height="40"/> <br/> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40"/> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="40"/> <img src="https://cdn.simpleicons.org/onnx/005CED" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40"/> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/> </div>
 
-<div align="center">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="huggingface" style="margin: 10px" />
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="40" alt="langchain" style="margin: 10px" />
-  <img src="https://cdn.simpleicons.org/onnx/005CED" height="40" alt="onnx" style="margin: 10px" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit_learn" style="margin: 10px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="40" alt="pandas" style="margin: 10px" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="seaborn" style="margin: 10px" />
-</div>
+---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="c" style="margin: 10px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" style="margin: 10px" />
-  <img src="https://cdn.worldvectorlogo.com/logos/xilinx.svg" height="40" alt="xilinx" style="margin: 10px" />
-  <img src="https://cdn.simpleicons.org/espressif/E7352C" height="40" alt="espressif" style="margin: 10px" />
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="arduino" style="margin: 10px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" height="40" alt="embedded" style="margin: 10px" />
-  <img src="https://cdn.worldvectorlogo.com/logos/arm-1.svg" height="40" alt="arm" style="margin: 10px" />
-  <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" height="40" alt="raspberry pi" style="margin: 10px" />
-</div>
+### ⚙️ Hardware & Embedded Systems
+<div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/arm-1.svg" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40"/> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" height="40"/> <img src="https://cdn.simpleicons.org/espressif/E7352C" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/xilinx.svg" height="40"/> </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws" style="margin: 10px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="40" alt="azure" style="margin: 10px" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40" alt="gcp" style="margin: 10px" />
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="40" alt="docker" style="margin: 10px" />
-</div>
+---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" alt="csharp" style="margin: 10px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs" style="margin: 10px" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="40" alt="sqlite" style="margin: 10px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql" style="margin: 10px" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="firebase" style="margin: 10px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="javascript" style="margin: 10px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" alt="react" style="margin: 10px" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="40" alt="nextjs" style="margin: 10px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="html5" style="margin: 10px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="css3" style="margin: 10px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40" alt="sass" style="margin: 10px" />
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" height="40" alt="blender" style="margin: 10px" />
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="40" alt="unity" style="margin: 10px" />
-</div>
+### ☁️ Cloud & Infrastructure
+<div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40"/> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="40"/> </div>
+
+---
+
+### 💻 Software Development
+<div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="40"/> <br/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40"/> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" height="40"/> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="40"/> </div>
+
+---
+
+### 🗄️ Databases & Tools
+<div align="center"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40"/> </div>
 
 ---
 
