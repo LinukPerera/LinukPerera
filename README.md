@@ -21,10 +21,10 @@
 ## 🔭 I’m currently working on: 
 <!-- ## <br><img src="https://cdn.dribbble.com/userupload/25025532/file/original-2f0f95f4d67dd5fc7dc623442fd0ad44.gif" width ="65"> 💻 I’m currently working on: -->
 
-**Digital Twins and Quant Models**
+**GPU Optimization and Physics-Informed Models**
   
 ## 🌱 I’m currently learning:
-**Quantitative Finance, Machine Learning, Electronics and Economics**
+**GPU Architecture, Quantitative Finance and Economics**
   
 <!-- Sphere Wave Func Gif -->
 <!-- <img align="right" alt="Wave Function" height="200" width="200" src="https://64.media.tumblr.com/bfe7c612f57222270e8ee775f32c34f4/tumblr_o8x43xEHcP1rpco88o1_540.gif"/> -->
